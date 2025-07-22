@@ -1,0 +1,501 @@
+seller_id,city,fulfillment_type,onboard_date
+fcf2e796-1159-4eae-ad6f-7787fb3f09f0,Serampore,3P Fulfillment,2025-05-21
+b4da0390-829f-47d8-ac90-e88df6ab0048,Pali,Meesho F,2025-01-26
+d6c1b78a-bd3f-45c5-9ec6-10d0671d02c0,Gwalior,Self,2024-02-22
+09e28d9e-57ea-4d07-b268-d7bd89f9a604,Sangli-Miraj & Kupwad,Self,2024-10-12
+70aa389c-25ed-456c-83c8-65f1eaba6d49,Ludhiana,Meesho F,2024-09-19
+39945eec-a6cf-4fc9-b793-bca2295b9f6d,Tiruchirappalli,Meesho F,2025-01-05
+c00f021b-3b23-44ea-991f-80f8f595b342,Kollam,Self,2024-07-14
+4d0b881d-8cc6-46ea-a1ae-d8fa7a30061f,Ramagundam,Self,2023-10-01
+c8cd3bd2-1a40-4f23-b570-8cac016caf44,Korba,Self,2024-12-08
+927e352a-5ab7-4188-94f8-52d0d305674d,Purnia,Meesho F,2023-12-09
+105ff227-7a24-403e-9c08-77f01a843bed,Ichalkaranji,Meesho F,2023-08-31
+eb221a4d-a297-41ca-b606-945ac4a5bb71,Dehradun,Meesho F,2024-02-18
+806711e1-bc1e-4085-b7ab-7ce5acbf90ff,Jhansi,3P Fulfillment,2024-07-31
+e1b190a1-0b42-4aa7-925f-e21dfea9a48f,Ajmer,Self,2023-10-27
+69fc948e-3cfd-4444-8041-f3c734f004ef,Tiruppur,Self,2024-10-15
+1431bfe0-9785-4fe6-b3e2-006a82383c16,Deoghar,Self,2023-08-20
+23c4f2e4-1d25-4b0e-bba3-56c13ae51e6a,Patna,Self,2025-03-06
+c4c9c3d5-41ac-487a-9702-dc82a8d56fda,Cuttack,3P Fulfillment,2024-11-06
+0d36fa9b-0ac6-4c62-8db3-3248fe9a0369,Tiruchirappalli,3P Fulfillment,2025-01-09
+c8c24f39-fd9d-4be7-bfd1-3068f2c27903,Jalandhar,3P Fulfillment,2023-12-31
+ab0a2b68-4e7c-4b81-94c9-bbb5b3b5e00d,Sonipat,Meesho F,2025-07-10
+ffe0c674-853d-44a4-a76c-fb9effac411a,Allahabad,Self,2025-07-05
+7a962bb6-db59-40a7-b150-0a2b59b05c64,Ranchi,Self,2023-09-16
+028524d4-2cf3-4058-8495-78834f77233d,Pudukkottai,Meesho F,2024-09-30
+b4f63052-7271-4109-a17d-10343038a2a6,Vadodara,Meesho F,2025-02-01
+eba81e5a-76cc-4e91-93ec-b01aba6dccdb,Kochi,Self,2024-02-05
+2fd11734-4a09-4a11-8bf9-4c1b12d425ea,Katihar,Meesho F,2023-08-14
+bd7ad98c-383d-4aa2-a352-824d31b2710c,Tiruppur,3P Fulfillment,2023-10-22
+5a5fe94e-00de-42b9-bcb2-b5c1bbf531d9,Shahjahanpur,Self,2024-07-25
+6528403c-e9a8-403f-8d52-9e0fdf656ccf,Ongole,3P Fulfillment,2024-03-25
+59ab3409-9561-4c1c-83c6-a83b98fc8107,Bettiah,Meesho F,2023-09-21
+d46f7ce3-7c17-4cb6-b57e-151a9576eff8,Hyderabad,3P Fulfillment,2024-01-10
+f14a9d80-5d65-4b9c-a1f6-06953e4122e9,Imphal,3P Fulfillment,2024-05-22
+8fcd50a7-3b98-4775-8ca6-b5eedd9d6dd1,Bhiwandi,Self,2025-07-03
+c5af7fc3-3409-4c80-9903-3716cd16c533,Panvel,Self,2024-03-30
+a366b492-20ff-4006-95b3-8a3b6d3fe828,Eluru,Meesho F,2025-07-08
+65a4a182-d125-45df-a7da-eb35bc4e6a59,Bhiwandi,Meesho F,2024-09-17
+f0caa86e-8ead-4eaf-a3f8-0adf11bd0f3a,Agra,3P Fulfillment,2025-02-01
+5e535c6c-acde-4240-8961-7b52e1d55337,Karaikudi,3P Fulfillment,2025-03-10
+082c9e51-2a7a-454e-9ed1-ab7b270dc332,Orai,Meesho F,2024-05-10
+b8edd250-a8fa-430c-8789-2b7238942031,Suryapet,Self,2025-06-12
+216317d4-065c-4803-9591-7a6eb09c67ad,Kakinada,3P Fulfillment,2025-06-23
+1afa5fcc-247e-4a76-ba86-79daa7e604ed,Patna,Meesho F,2024-01-14
+fd0c6a7a-0984-483e-a2ad-a52d669f693a,Unnao,Meesho F,2024-12-15
+c87c3e4d-5b87-40f5-9743-dcd09954c42f,Buxar,3P Fulfillment,2025-02-07
+ba42fdea-aac5-47d7-beb8-7982bedc345a,Ozhukarai,Self,2024-02-11
+9dd7d7dc-7c7d-4b9d-a894-16096a389ea7,Ambala,Meesho F,2024-09-19
+758edc21-8ece-442d-9276-a918e7adee8b,Rajahmundry,Meesho F,2024-12-31
+cf330911-863e-4427-bf70-ddbe59906d67,Hajipur,Meesho F,2024-11-17
+2b758054-ea0d-4cd4-a76f-3de7ff7ba854,Siliguri,3P Fulfillment,2024-02-03
+0806249c-5fa2-46a5-b2a4-c57fc48a31a4,Asansol,3P Fulfillment,2025-06-04
+363ec6db-5da8-491a-b9cb-27286dc95b96,Hubli–Dharwad,Self,2025-04-07
+6e7720ed-a52a-4d97-b119-bf29f3e074a1,Durg,Meesho F,2024-09-10
+03dd629f-7cc7-4466-8a01-005b0d082de9,Udupi,Self,2024-05-14
+6848c7c8-ecae-4409-8987-e0b62e12421a,Indore,3P Fulfillment,2024-04-07
+f4f83272-8ef2-41fa-b928-0e0349de371c,Miryalaguda,Self,2024-12-31
+065bbb89-48dd-4a37-b8b1-6e880fa2a75b,Sangli-Miraj & Kupwad,Meesho F,2024-11-03
+a2269748-d0dd-411d-8a2c-e622959d93bb,Satna,Self,2023-07-28
+b67b05d7-9faf-4165-8c35-2372ff893f06,Gaya,Self,2024-06-18
+9517dee3-f494-4ed3-a1b9-bb0511440c77,Pali,Meesho F,2024-01-21
+18011dbf-a70e-4ff3-bac7-ed04991fecc9,Begusarai,3P Fulfillment,2025-05-08
+a573a67e-0eb7-4698-a4f2-af8375c48735,Surendranagar Dudhrej,Self,2024-03-02
+de994fc3-5959-49fb-817c-e00af2f7139f,Satna,3P Fulfillment,2023-09-12
+a4cff38c-aee4-4202-97e4-11d002231daf,Bidar,3P Fulfillment,2025-05-08
+8402dd45-9f7f-4857-b1c7-50db8a9496b3,Bettiah,3P Fulfillment,2024-04-07
+2940b6ba-e171-4fa1-8bb6-106b93e878bb,Hindupur,3P Fulfillment,2023-12-14
+92b5c717-5424-402e-95be-040ce4031993,Gandhidham,Meesho F,2024-11-04
+c20a27e2-8a95-4888-b24c-986a3c145a02,Sirsa,Meesho F,2025-06-17
+3c720657-4924-48a8-8048-6ea11f68e748,Hapur,3P Fulfillment,2025-05-09
+5c7038d7-c4e0-4f78-b733-5c331cd45db1,Farrukhabad,3P Fulfillment,2024-12-01
+0c626fef-26e9-4a38-9ccd-215b22e79281,Ramgarh,3P Fulfillment,2024-01-11
+2182f5c2-9975-433e-ae12-261bba177ad3,Imphal,Self,2024-10-22
+195754c7-928a-4d58-9013-7c814e2d291e,Ratlam,Self,2024-04-12
+776e7974-99fd-413f-976b-0f41a1b35dc1,Ratlam,Meesho F,2024-08-06
+dcaee25e-8891-419a-87de-11c368df868a,Bulandshahr,3P Fulfillment,2025-06-02
+784fa9eb-6dc8-43d0-b04b-b31fc22e2e7f,Naihati,Meesho F,2025-05-02
+a197e7ed-6071-4d0b-9b63-5eb24089689a,Delhi,Meesho F,2024-05-11
+7808c850-5c2d-452e-a748-09cedc2c2374,Tadipatri,Meesho F,2025-04-30
+947cb004-36c4-4a04-b681-09f3d6a1ded0,Bidhannagar,Self,2024-05-05
+420fa226-13ce-4a60-aaa3-d0cefb5c8b85,Cuttack,Meesho F,2025-06-20
+083f538d-9f75-416e-a63c-709db89782a4,Pallavaram,3P Fulfillment,2024-08-27
+29be4679-45cb-485d-85e5-c5da8d082a2e,Shivpuri,3P Fulfillment,2024-03-05
+fbef2203-290e-4a0a-b6c6-b7b253a033b8,Kalyan-Dombivli,3P Fulfillment,2025-01-24
+69ff260d-ad27-4eae-92b3-25e52726a30b,Srikakulam,Meesho F,2024-03-19
+44466681-19ce-4a50-93fe-058677d8b674,Siliguri,Self,2025-02-14
+ebce3dd7-8a5d-48fd-8472-71a5041d5755,Belgaum,3P Fulfillment,2024-03-05
+f7a12346-654e-4f3d-b679-87442ef742be,Berhampore,Self,2024-07-31
+82650be4-a300-4c76-8ef0-c74f15aaaf1b,Jhansi,Meesho F,2025-07-12
+6e7bbd5f-fc71-4a45-9b59-42dc114f9e26,Bharatpur,3P Fulfillment,2024-12-15
+8b58db27-9c00-4a8a-9f45-feb3fad52b6a,Bidar,Self,2025-06-07
+730da300-67ab-4bdb-ac5f-33cf61433868,Mathura,3P Fulfillment,2023-08-01
+8d9598a4-d847-45ea-9ee6-bf73dc45786e,Faridabad,Meesho F,2024-07-04
+aa54601e-fa38-4649-9e3e-a9bbb8c1184c,Khora ,Meesho F,2024-03-10
+1cf8cbd0-fba5-4574-b585-b3e280aa53e9,Kalyan-Dombivli,Meesho F,2024-05-04
+45dadb69-3c2d-41c2-b257-c43bda7ae559,Agra,Self,2024-03-25
+30791de2-9b81-4c33-ac19-bd114f904093,Amroha,3P Fulfillment,2024-04-18
+103e25b9-aae7-4019-a606-2edde4893da4,Mysore,Meesho F,2023-10-25
+55022cfc-78d9-4375-a7d0-2539340aaf8b,Bijapur,Self,2024-12-13
+248d0692-9b1d-4dca-b030-9025428e4a0d,Machilipatnam,Self,2025-07-03
+9571dfaa-6138-433c-afff-94ffd32cbed2,Nagpur,Self,2024-04-14
+0aeab51c-48c3-4d52-95db-82d694f72dcb,Sangli-Miraj & Kupwad,Meesho F,2024-11-18
+e20cd797-854e-44ae-a8f9-a4dc6849465b,Coimbatore,3P Fulfillment,2024-04-13
+75279223-e626-44a1-a1c0-22f119fb663c,Hosur,Meesho F,2024-03-17
+d9972bee-a1ac-4ef2-a43f-137cc9954d92,Adoni,3P Fulfillment,2023-12-16
+addf7f0a-d5e0-49a1-b545-6ed97484e726,Bellary,Meesho F,2024-07-30
+c6bcf593-dc25-4db7-8ff3-86bc24d73a98,Tiruvottiyur,3P Fulfillment,2023-12-25
+84173aae-09f4-469a-aa32-cb1163715e92,Karawal Nagar,Meesho F,2025-05-20
+7baa655c-f543-481d-9122-41b64be71b02,Adoni,Meesho F,2024-06-19
+f221b7d5-94fb-48dd-84c5-9cf12dd60255,Raebareli,Meesho F,2025-03-21
+97152e81-f515-46a8-9f11-0efc7abc9a59,Medininagar,Self,2024-03-30
+3d963000-25f9-4a62-8957-3165bccd03e7,Giridih,Meesho F,2024-08-02
+6c95c40c-9ecd-4087-89bc-fc6f758cd8a3,Patiala,Self,2025-06-23
+eb0b589f-efff-4099-b7ec-d86d0d77ea9e,Gandhidham,Self,2023-10-17
+bd1285ba-3c1a-440d-b11a-9826c0eb91b6,Farrukhabad,Self,2024-09-16
+6fa49d17-18dc-4c5c-9bb2-4421e39f2f63,Raipur,Self,2025-06-01
+0caaf091-5d0e-4ba6-a85f-9c61c5c75dff,Howrah,Self,2025-02-11
+7a91b23f-f90c-4a50-a491-f268cd5d3757,Salem,Self,2023-12-04
+6a32458f-d1a8-48b7-a443-718f01a03c00,Jamalpur,Meesho F,2024-01-03
+85543da7-fb9e-4db2-bafc-f36682f55705,Bhilwara,3P Fulfillment,2023-09-18
+ac418ac9-f9b0-4d39-9f8c-a99e8b16ed3a,Pimpri-Chinchwad,3P Fulfillment,2025-05-22
+965c7d08-4410-4dfb-bff0-b1927471fb4c,Haldia,Meesho F,2024-01-29
+fc8bf647-a854-4abe-a8b4-3e63d51f80a0,Pali,Meesho F,2023-08-31
+d551634a-f193-4359-aa4e-3e3e65dd34c2,Tinsukia,3P Fulfillment,2024-05-03
+84383e0b-26de-4622-b75d-fb13d6171fb3,Jamshedpur,Self,2024-03-07
+ee33ba41-75ef-4c82-a54e-535f8cf87e82,Aurangabad,Self,2025-01-10
+cc3a82ae-ba12-4c17-8faf-8fc7e29601d7,Khandwa,3P Fulfillment,2024-07-09
+0ea17e5e-c4ee-4544-b270-ee088418c174,Bidhannagar,Meesho F,2023-12-14
+f7c7072a-967c-4714-98b1-ea801f2eae34,Udupi,3P Fulfillment,2024-05-09
+b878f6a5-38db-4780-bf99-e7d7329c19b9,Phagwara,Self,2024-01-22
+181c3459-011e-4d7e-b1b6-be30a206b2b6,Bharatpur,3P Fulfillment,2024-01-05
+7a284a3f-78d8-48e2-b307-18476a1d8a92,Ranchi,Self,2024-02-22
+3f10d2c3-803b-49b1-b9a9-9ab683afc3e5,Tinsukia,Meesho F,2024-12-25
+2e2bd71a-e2b3-4739-966b-674072a98b84,Burhanpur,Meesho F,2024-06-12
+3b8ac338-78c2-46b0-84ab-83e4e2fc17f5,Shimla,3P Fulfillment,2024-12-08
+6c04b5d3-0152-4eeb-b004-cca9d13a41cf,Surat,3P Fulfillment,2023-10-15
+55e5ccbf-1b02-45d0-b036-f7ca18183d1e,Alappuzha,Meesho F,2023-09-27
+b25b0711-b360-4482-a4b4-422377141a9c,Tiruppur,3P Fulfillment,2025-01-23
+92d96a40-495e-423d-8366-c2e0e1659b59,Sri Ganganagar,Self,2024-03-20
+7c598eb8-425a-4b2d-9f59-8f87dde659c9,Ongole,Meesho F,2025-02-07
+d516d8ee-baae-4131-9c49-d696d0548592,Guwahati,Self,2023-09-18
+b2f65dbc-e522-41f6-8827-9338042033c3,Kishanganj,3P Fulfillment,2024-11-09
+6d92c98d-f3be-4498-baa1-493896fe061b,South Dumdum,Self,2024-06-18
+5cfd520c-0525-48eb-9617-5131aa32bd18,Amaravati,Meesho F,2025-04-07
+9057512d-8699-4854-9809-d9a4ef5efd85,Thiruvananthapuram,Meesho F,2025-01-19
+3bbc9ebd-57a4-4aec-853e-a13c0c988be6,Madanapalle,Meesho F,2025-02-02
+e79ed9fe-4eaa-4fe7-aaed-0c6f77b46af0,Deoghar,3P Fulfillment,2024-12-21
+94e3d174-c876-43fe-b0b3-c3f917c8f96f,Katni,3P Fulfillment,2024-07-04
+d0390ffb-0966-4f98-a4fc-f381c593c70c,Gandhinagar,Meesho F,2023-11-28
+9659208d-e073-4d60-9b78-6efba687db97,Jalna,3P Fulfillment,2023-12-16
+aa1eb3af-e966-46fb-944d-e43c5c33e400,Mehsana,3P Fulfillment,2024-12-05
+3022addd-e995-48e0-8c39-c947ae4c93a2,Vasai-Virar,Self,2024-12-03
+8f25d143-c780-4fc5-86ef-be7e08ae6bd2,Naihati,Self,2024-05-31
+1b4d8fb1-a2ba-451f-9ddf-ee86289d86f9,Mau,Meesho F,2024-05-25
+17fb4bfd-1e95-47ca-987b-3853a10df6b1,Kamarhati,3P Fulfillment,2024-09-30
+e0d77fa4-39c5-40ed-9041-3d62813e43bd,Thane,3P Fulfillment,2024-09-14
+53677aa0-c7b0-4311-8c13-729debef8a8b,Sagar,Meesho F,2024-10-18
+5519bc5d-2988-481b-ba17-92b4a70b73b9,Ghaziabad,Self,2024-03-10
+a83211a9-9230-4838-890a-3868a88d8393,Pimpri-Chinchwad,Meesho F,2023-12-07
+58c45ee4-3e62-47d0-8456-ddc6a6c36768,Kumbakonam,Self,2024-05-10
+10239612-24df-468e-84a7-8a947e3b1d6b,Thrissur,Meesho F,2024-07-16
+c211d289-0515-4905-b51b-dbef6d9ff6e5,Dhule,3P Fulfillment,2024-07-28
+ceef6473-13cd-447a-bfe2-001feefbf3c3,Panchkula,3P Fulfillment,2024-11-13
+a15bdbb9-d176-476e-9816-97340c36b98b,Satara,Meesho F,2024-05-23
+4148f75e-a6bf-4988-9140-17eac9a167ac,Dehradun,3P Fulfillment,2024-03-16
+0e670699-253a-4810-8fc2-9978c92ae884,Moradabad,Self,2024-08-02
+e5744d9b-cba0-4d17-9308-30f8b062cc03,Ranchi,3P Fulfillment,2024-09-14
+8ad90801-c96e-45ef-a42c-9f279d33f7e6,Meerut,Meesho F,2024-10-24
+ffd85567-f06e-44ff-ac35-782552a42dad,Thiruvananthapuram,Self,2024-03-08
+00b026b2-7acb-4f84-9fa4-1fd1e2fdefd4,Kumbakonam,Self,2024-10-26
+86e3ec04-a7ed-4667-b7aa-57e0e78b5444,Bally,Meesho F,2023-10-28
+80b5d469-dfce-4328-8e6f-3c82d0bbbeef,Aligarh,Self,2024-06-28
+eb4abb77-533e-47c1-88b7-442b0cdae669,Alwar,Meesho F,2025-04-14
+681b89c5-4627-42f5-8984-d07fa329d859,Gurgaon,Meesho F,2023-07-27
+8692dd97-83b7-45cc-9fb8-7ed0aedd9370,Thane,3P Fulfillment,2025-07-21
+8ff310c2-4d04-4721-839c-61b860f3ba32,Hajipur,Meesho F,2024-11-05
+a8967432-5fa9-4809-8000-4e828ca65832,Kishanganj,Self,2024-01-16
+062aea8b-1861-446b-afa4-2d4ef538cf61,Tezpur,Meesho F,2023-12-14
+f9463caf-3999-41c3-99ef-fd7c4e9b8ed0,Medininagar,3P Fulfillment,2024-10-12
+dbf5e57b-b844-4ef8-b8d0-a7aed51c8aae,Tiruchirappalli,3P Fulfillment,2024-05-16
+11d6161c-54c5-4913-8b32-d48b6974ed9f,Malda,Meesho F,2024-05-05
+0f59499d-a571-4915-bda7-5c21c603a06c,Aligarh,3P Fulfillment,2025-06-24
+8451e1b3-cb47-4667-941c-31caa1b94a18,Kadapa,Meesho F,2025-02-12
+31ff495c-6e5b-4f5f-87fa-99a77952cc42,Delhi,3P Fulfillment,2023-12-28
+6c1eced5-0caa-4ace-9140-35a37e216c14,Bhubaneswar,3P Fulfillment,2025-05-13
+1ad347d3-0f85-4d75-a64e-eba9aed3a3a1,Nellore,Self,2024-08-24
+4290fae0-b106-422c-9ee3-0306a641334a,Erode,Meesho F,2025-05-21
+bad32f21-cc73-4b08-8e03-cec173edf0c4,Ongole,3P Fulfillment,2025-03-17
+25e917aa-ce14-487c-8a2a-0adea6b2663f,Alwar,Meesho F,2024-03-27
+92bcaa5c-57f9-449d-9fec-2600c86c0791,Raiganj,Meesho F,2025-06-18
+3f6a971f-56c6-491a-ac3f-19430c743375,Silchar,Meesho F,2025-06-28
+299a6238-6a50-4e6c-8469-4a98db858c5d,Siliguri,3P Fulfillment,2024-09-30
+aead0e05-7b71-490c-b079-ceb3a366d967,Mirzapur,3P Fulfillment,2024-08-20
+536bc98f-e293-4be6-88c3-ed1e63685f7d,Jamshedpur,Meesho F,2025-05-31
+923a2dd2-78da-4b3d-9815-862956d6efc8,Pimpri-Chinchwad,Self,2024-08-31
+d2d2ad03-ba2d-4a78-809b-dd583921569e,Dindigul,3P Fulfillment,2023-12-24
+e6ddc4c6-5f2a-4f40-b064-0536b4164e27,Ambala,Meesho F,2025-05-11
+11d67fe4-a0a1-4679-b742-d53890b9c6c3,Madanapalle,Self,2025-03-04
+cf74121f-b5fe-463a-a092-193efca62f1f,Noida,Self,2025-01-30
+7b990ed6-f0b6-4067-9235-3c6cea235277,Meerut,Meesho F,2024-04-17
+96908b75-fed2-473f-a5dd-ae38c77da73e,Nagercoil,3P Fulfillment,2023-11-13
+e6ad6af3-b228-443c-8609-9b94bdf6db0e,Ajmer,Self,2024-10-23
+5799b00a-cb0e-46c5-9d1d-25f758a42bb2,Vijayanagaram,Self,2025-07-21
+50932407-2ac9-4a33-ae16-8b26911570c1,Vijayanagaram,Self,2024-11-01
+526cb160-2615-4013-8366-f51b9211f147,Naihati,Meesho F,2025-06-12
+772c571f-8d8c-405a-ae69-191b34d44fb1,Ongole,Meesho F,2025-03-07
+25a9804e-9b17-4ff8-9b72-09b7256b91d6,Gurgaon,Self,2024-04-11
+502d9e01-244d-4f90-9464-9d5149959ec2,Junagadh,Meesho F,2024-06-13
+f44b1913-eada-415b-ad51-4c35f812bb5f,Loni,3P Fulfillment,2023-10-08
+f4d9496f-ca77-4be5-a906-19cb5d460bd6,Begusarai,3P Fulfillment,2024-06-09
+8d1d5d3a-8a05-4825-914d-e330d4b5bb2d,Vadodara,3P Fulfillment,2024-02-28
+c62e2269-796e-4cbe-b1a1-30e1e466231c,Bhatpara,Self,2023-09-17
+24917ecf-cd03-4ae4-9f1b-350e6018c9fb,Pune,Self,2024-10-27
+da30ceec-9a9a-43c2-9b4a-24b7bdbb794b,Bangalore,Meesho F,2025-03-21
+88e6cd63-5c2f-4732-85c2-3952bcf04cd1,Sagar,Self,2025-05-03
+ee894db5-34ba-40d1-aa81-2e588286f97f,Etawah,3P Fulfillment,2024-04-30
+7140e0fc-fda1-4a46-94eb-738dddea19c1,Bellary,Self,2025-02-13
+c51ebbfe-c304-4a30-a7a6-3a39fc7f684c,Shivpuri,Self,2025-01-10
+3fa4552a-cbda-453a-a682-23f7017b7c1d,Ghaziabad,3P Fulfillment,2025-05-21
+72e6855f-858f-429e-9f7d-82eee0f82685,Hindupur,3P Fulfillment,2024-01-03
+6eb44a02-399c-457e-b962-cd24c7364dbd,Karaikudi,3P Fulfillment,2023-12-02
+a76215a8-4bf8-42cd-b514-21b84a35a9d3,Bihar Sharif,3P Fulfillment,2023-10-30
+d64247f5-cc94-4b4c-805a-d85491fa5b33,Malegaon,Meesho F,2024-08-18
+394218d7-6f41-4b95-8174-1df8f8a7d8b1,Ajmer,Self,2025-02-12
+0acfc6ba-9ad3-4167-8c3d-991091daf532,Nizamabad,Meesho F,2024-10-16
+b6941ea0-0b1b-4371-b6e1-6504fccb7c25,Panipat,Meesho F,2025-02-07
+76be1cda-0e57-404c-98be-a98d5ec01bdb,Sagar,Self,2024-04-10
+7f558af0-13e0-4717-8d36-dbe3a814394b,Machilipatnam,Self,2023-11-10
+8a4d20fa-ee46-47db-b671-9335d747e3a1,Akola,Self,2023-11-26
+81219d48-435b-4d92-97e8-b7f28d94969b,Sikar,Meesho F,2024-06-22
+47b05fa6-11ca-4d4e-9035-078f38703739,Mahbubnagar,Meesho F,2023-10-01
+e8b685bf-70c8-491c-986c-89137eafe531,Nizamabad,Meesho F,2024-03-24
+42753e57-1c94-499c-8ae7-c85d7b8a99df,Uluberia,Meesho F,2024-06-17
+cf5b5859-c099-43db-8907-dc24dc537a9b,Varanasi,Meesho F,2024-11-23
+4e45aa4f-30f1-41f4-ba99-d5defa349808,Morena,3P Fulfillment,2024-03-16
+10d709b8-74c3-404b-9013-4c8ba839214a,Saharsa,Self,2024-12-16
+d5e30c7f-eebf-4c43-a8d7-1d9c7b51e677,Pondicherry,3P Fulfillment,2025-02-18
+a3318474-dc72-457e-af80-5863afaf17fb,Adoni,3P Fulfillment,2023-11-03
+462b8092-059f-4406-8fe0-03eaaf2648fd,Tirunelveli,Meesho F,2024-02-14
+15aa3952-f255-4b99-811f-60e2f1f4383e,Bidar,3P Fulfillment,2024-04-03
+dd11aa77-ea9e-4629-85ee-0e5413a3eca1,Bhatpara,Self,2024-04-08
+2abdc2c6-47ed-4084-ba91-6a67fdb866f5,Ambala,3P Fulfillment,2024-04-07
+6bcd3e84-de46-433f-9010-2c96f77074e0,Allahabad,3P Fulfillment,2025-01-14
+98741b6c-2bb3-4088-bdab-556c60734f86,Phagwara,Meesho F,2025-02-15
+415a9820-de5e-4fbd-9839-ba53ea0b0472,Bhiwandi,Meesho F,2024-10-21
+d7137d56-07e7-43a7-9fc5-7f773983f246,Satna,3P Fulfillment,2023-12-17
+263f2ebd-a00a-4733-9ce0-7ba2f8b0b52c,Jorhat,Self,2025-06-11
+8cdc2c7d-c7a1-42df-a8d3-0a7ad5efc7a8,Hyderabad,3P Fulfillment,2024-02-21
+01ec18ad-52f4-47db-a64d-45457f705c6f,Rajpur Sonarpur,Self,2024-10-09
+2e7ff4a9-8276-40e8-aa05-5e438fbd9577,Maheshtala,Meesho F,2024-02-24
+d8a597c9-00fe-4721-8261-d67f06872f6b,Fatehpur,Meesho F,2023-12-13
+a4b1ffad-1e74-4b17-ab7b-db3a3f68e7fe,Davanagere,3P Fulfillment,2025-07-18
+85c68c5d-2166-43a2-b40b-f61b803b5040,Pondicherry,Self,2024-06-13
+b189fc54-0569-41e3-9b52-fdb6d7560440,Kochi,3P Fulfillment,2024-07-25
+55818ed2-5be5-4e12-8d7c-322ab5f203ef,Bhalswa Jahangir Pur,Self,2025-03-04
+7f3fb2b2-1ff5-4090-9677-c1b8f221c1a5,Erode,Self,2025-03-31
+723666af-8e8b-49ee-ab69-4709f3599b3a,Ghaziabad,Self,2024-07-16
+57f02c9b-abc2-4a0e-901c-cbecb8108a29,Gulbarga,Meesho F,2024-11-10
+99334a45-fc64-4dae-a4ce-1146e7ff1a3b,Ambattur,Meesho F,2025-06-09
+dd1c40ae-62a6-4e3d-86eb-75f938adc3a4,Jamalpur,3P Fulfillment,2023-12-23
+e1e773f3-48b2-4b68-90c6-0795c4b9df43,Bongaigaon,Meesho F,2025-05-24
+93fea36f-f760-4330-af54-331af2e886cb,South Dumdum,Self,2024-04-18
+c6025c5f-2a8a-41ff-bd78-adb444672f83,Sri Ganganagar,Meesho F,2024-03-14
+22ce5fa9-a59a-4142-9327-d1aded40cea1,Ambala,3P Fulfillment,2024-04-16
+dfc9423e-1f64-4646-955f-793e765d15d8,Vijayawada,3P Fulfillment,2024-09-26
+34195daf-d1f8-42e1-8bb8-1db195f88398,Loni,Meesho F,2024-10-03
+4a06dd54-a426-406f-a943-2170a9a966a9,Latur,Self,2024-12-19
+bde5ec70-2e48-4530-a84e-d4d97d1c5f76,Shahjahanpur,Self,2025-01-10
+406c3615-1175-40b7-ac76-febb791843e4,Kota,3P Fulfillment,2025-06-01
+693531b0-2929-4804-be1c-6b0e8cc62e00,Malegaon,3P Fulfillment,2023-10-04
+2b9954d3-95a0-43d7-a696-91c18210eb71,Haridwar,Self,2024-02-29
+16ce0b6e-6858-4f31-a82b-dfa6598b8a3c,Sangli-Miraj & Kupwad,3P Fulfillment,2023-09-08
+de9ca9aa-86d3-4562-b3d5-1a928dc256f5,Bilaspur,Self,2023-08-10
+6dd5e2df-ecec-45aa-9c6e-c55c96f00eaa,Kurnool,Self,2023-09-08
+9b8da1cf-202f-4e6d-905b-5cf4feb876a9,Bokaro,3P Fulfillment,2024-08-19
+a0a49a9b-4f22-43e0-bc09-3181bd4ceef9,Guna,Meesho F,2024-09-27
+8513425c-2956-4570-8eb4-41c89356f96a,Thiruvananthapuram,3P Fulfillment,2025-06-01
+6478d491-a196-43ce-967f-3e9f9b65916c,Rourkela,3P Fulfillment,2025-07-09
+66e94faf-0b43-4040-8083-6bbf07b9e01a,Mirzapur,3P Fulfillment,2024-11-16
+3e2fc5e3-18d2-49ea-b26e-012801752417,Erode,Meesho F,2025-06-25
+46253b03-5f52-40d3-aa34-0594232673ae,Narasaraopet,Meesho F,2025-04-05
+4e46f6c5-81ff-41c5-a962-08077b9d24f6,Pondicherry,Self,2023-12-20
+3287e54c-67c5-46a5-b32c-210e12e304f3,Bhagalpur,3P Fulfillment,2023-08-08
+b26e46cd-b505-4e61-95d4-3242b166ce5a,Bihar Sharif,3P Fulfillment,2024-05-07
+5cff0afa-410b-44dd-b653-e2490d7f167f,Uluberia,Meesho F,2025-06-24
+ea210b18-4c4b-4c9f-8f28-dbb643b2988b,Sangli-Miraj & Kupwad,Meesho F,2024-11-27
+b68b6466-3984-4d50-8d04-e028cb068760,Gulbarga,Meesho F,2024-01-23
+d0e6079c-5e1f-4f3d-845a-fbdcc9a4c12c,Berhampur,Meesho F,2023-09-03
+1036c721-9ad3-45d2-a99d-eee9c63ca8ef,Bulandshahr,3P Fulfillment,2023-08-04
+2d316186-5253-442d-b71b-8ba55a16d281,Ahmednagar,3P Fulfillment,2024-04-23
+973ff2f0-6ce3-4b88-8a0b-484bae7d8095,Haldia,Meesho F,2023-09-25
+426217a5-31f6-489a-b408-68aa5be1584b,Bikaner,Self,2024-03-03
+3265802b-9dad-43dd-9f26-24522fe8955d,Bardhaman,Meesho F,2024-05-06
+a45b0351-2385-4142-b33b-b9ebad6de04b,Jamshedpur,Meesho F,2025-05-20
+870e8911-aee9-452d-bcf8-5479747379c8,Mirzapur,Meesho F,2025-05-01
+291a6ebe-568b-4616-996b-be8d75d8497e,Kakinada,Self,2024-09-10
+c1b13cda-309e-4f42-8757-baeb7d457cbe,Malegaon,Meesho F,2024-09-24
+4442ed4c-dedf-4e8a-9e93-5c1a6646fbb8,Khammam,Meesho F,2024-09-20
+1311d01c-933c-4cea-9a76-d462f7a1fe8f,Ambala,Meesho F,2023-12-03
+f8b5c477-8064-40e2-83ef-004b87eb73a9,Mira-Bhayandar,Self,2025-04-18
+1d6b4bf2-f28d-4c7d-9b5e-cb84ad0c3d8f,Pallavaram,Self,2024-08-28
+c8503595-4c44-4dc6-84cd-105402590f25,Mehsana,Meesho F,2023-09-16
+fc9a0a61-1a12-4c0d-a79e-350b64c43917,Kolkata,Meesho F,2023-07-26
+48e38f7a-b55b-4562-b71f-959bbc949063,Motihari,3P Fulfillment,2024-01-05
+dc450023-9c83-44d2-a00c-745fc626845a,Dharmavaram,Self,2024-11-18
+cce3e156-0779-4b17-9c69-fc411948d14c,Shivpuri,Meesho F,2025-04-02
+c3ad2403-d338-4760-8df1-46d19cc51a35,Dindigul,Meesho F,2025-05-30
+315bac7a-ae08-4cc6-b6e9-f09e6953f364,Fatehpur,Meesho F,2024-09-17
+3dbdf1aa-b446-420a-b5f4-f815ee4fe109,Pimpri-Chinchwad,Meesho F,2024-01-21
+71ec90ea-5659-4399-9fc0-572705461fbd,Sirsa,Meesho F,2024-05-13
+f8bd41e1-10ca-47ed-b461-7994ee25192d,Mehsana,3P Fulfillment,2024-05-26
+68b84cb2-41ac-47bf-bfb0-a3a13ce9ee9c,Haridwar,3P Fulfillment,2024-08-11
+b84b30ff-f5e9-4a7a-b68d-77598a77f199,Nagpur,3P Fulfillment,2025-02-04
+697c2949-fe2f-4cd1-85f2-9b2f127c9547,Vijayanagaram,Meesho F,2023-08-26
+de688fe9-dee2-4ae6-aa31-e712d7022060,New Delhi,Self,2025-06-24
+f0e052ac-3d25-4ad3-8c47-8e659f5be1c7,Phagwara,Meesho F,2025-03-23
+868d7cf6-6d7b-4718-a7ec-74c04bf39c49,Tiruvottiyur,Meesho F,2025-01-29
+7d76fa4d-3751-44fb-bfd9-1befa1c28b8b,Jalandhar,Meesho F,2025-05-28
+06d3aae8-d63d-4a38-9ade-45d3f423b724,Nanded,3P Fulfillment,2025-02-23
+8dc41263-0d3d-4823-b3bb-50c565b51330,Kishanganj,3P Fulfillment,2024-03-04
+e1c6f1b9-82f4-4544-bd92-a988f3599729,Karawal Nagar,Meesho F,2023-10-25
+e12d2c59-a889-4b9d-a8bc-cb412ae23dac,Bikaner,3P Fulfillment,2024-01-06
+cfc87f0c-6b00-4979-b567-e939c67f19e1,Miryalaguda,3P Fulfillment,2025-07-08
+50dc5b76-5856-4fd8-bf6a-9166ace41e86,Noida,Meesho F,2023-12-27
+127ea0e2-9519-4c09-bad1-16ca74e7af1f,Ghaziabad,3P Fulfillment,2025-04-11
+bf057daf-a8ac-402b-8314-82738e246bb2,Dibrugarh,Self,2025-06-10
+53291234-8928-4e12-9611-621244050f3c,Muzaffarnagar,3P Fulfillment,2024-01-29
+bbec24f4-3c33-4f05-bc0f-0079a5114c5d,Amaravati,Meesho F,2024-05-02
+651bf6c5-99df-455f-bc2e-5ac08ac5e1cd,Satna,3P Fulfillment,2024-04-27
+87174aa2-eea8-4f25-9d3d-f5caacb6f3b6,Kolhapur,3P Fulfillment,2024-01-12
+a25de6d7-dd37-473d-8d4d-35af46d6e428,Hyderabad,Self,2025-02-19
+ebbf4779-5bd2-4c6e-998e-1befbcac387e,Bahraich,Meesho F,2023-09-19
+c7767817-a439-4d3a-bde2-f085fc6aa216,Lucknow,Self,2024-07-07
+9929dafd-e477-40c3-9861-6514eed485de,Secunderabad,Meesho F,2023-10-12
+1d843f3a-05ee-4398-ad20-a96d6c75bc90,Warangal,Meesho F,2023-12-01
+061c1f2f-ffda-4829-950c-e1ead70112c6,Bally,3P Fulfillment,2023-08-16
+568b68cc-4c33-4752-be8e-fc6183cd7ffd,Ratlam,3P Fulfillment,2025-02-15
+567e4385-f330-4c8f-8af3-19af3c0c505f,Solapur,3P Fulfillment,2023-12-11
+e1285b81-3c2f-4e89-9ac3-9a617832ab63,Ongole,3P Fulfillment,2025-05-28
+3aeda1ab-5def-4be8-954d-0a7fbbcd7e92,Ujjain,3P Fulfillment,2024-11-05
+45f402ae-0315-4913-a4ec-e14ffabab085,Madhyamgram,Meesho F,2024-01-29
+349e743b-2bfa-46b6-87b4-b9e9b9a74eb3,Ambarnath,3P Fulfillment,2023-12-02
+ed5344dc-e57b-47a1-b8da-56dcec63b594,Ahmedabad,3P Fulfillment,2024-08-21
+f6ac1c91-0ae8-4b65-a299-86266929df00,Jabalpur,Self,2024-05-02
+ea4f3dd9-918a-4d18-ad50-7ea95d7743b8,Haridwar,Meesho F,2024-07-30
+a14c3bba-9cc0-4129-b275-0b2fb8cee716,Serampore,3P Fulfillment,2024-11-09
+0c7791f1-da55-41a7-a5b9-fc34c36d8256,Dhanbad,Self,2023-09-04
+d9c8c78b-98b4-4c2b-8b9b-735f4ebd5d11,Agartala,3P Fulfillment,2025-05-23
+3f922ed9-4036-4ddb-a00b-dc15989e33cd,New Delhi,Meesho F,2024-11-28
+292b2e72-b185-4a7a-bb1d-f93c2789d249,Ghaziabad,Self,2024-04-19
+828b7aa8-d1f9-4fcb-98c6-45e9a421860f,Hajipur,3P Fulfillment,2024-10-08
+e15f04c8-b63a-44df-bdc7-3459493072d0,Narasaraopet,3P Fulfillment,2024-05-28
+2e6c0a82-beca-423f-9eb0-0b2731b1ce7a,Kalyan-Dombivli,3P Fulfillment,2025-05-30
+c4f63bf8-47cb-41e6-99a7-3530171bb9db,Vasai-Virar,3P Fulfillment,2024-06-17
+b84298df-8f63-432e-8936-64e4a3730d5b,Berhampore,Self,2024-12-10
+fa224e95-a959-4f54-bac3-688f743d69ec,Katni,3P Fulfillment,2024-03-10
+8f2948e7-f38c-46fd-8579-18b8f8eb5582,Thiruvananthapuram,Self,2023-09-26
+9085e043-af05-42d8-adbe-5f331250ee06,Bhavnagar,Self,2024-06-12
+11d29f4b-63e2-49ac-9bb0-eeed27a038fa,Nagercoil,Self,2024-09-18
+6d876c43-bf87-4357-9d44-8846ef73a321,Ongole,Meesho F,2024-01-05
+85ca2b56-9776-44bb-b9d6-fc061688f406,Sri Ganganagar,Meesho F,2023-09-28
+324c5727-35b6-497c-82a4-99eba7504e2b,Yamunanagar,Meesho F,2025-03-03
+93d2ca76-e3ac-4123-8a6a-b122bd370f68,Motihari,Meesho F,2023-08-11
+e6e1810b-c901-46d0-90b5-d3dcf654c165,Loni,Self,2024-08-06
+360d31d7-aee2-495e-a069-baeb973c55fb,Erode,Meesho F,2024-09-02
+a5433bb3-9a76-4c05-8517-4280fbaecbe4,Ranchi,Meesho F,2024-11-11
+bccf410f-e5cc-4d77-9b18-76cf063b6633,Farrukhabad,Self,2024-07-22
+01e39fd2-c696-4d8a-a19e-3517ea8c8b04,Proddatur,3P Fulfillment,2024-12-29
+36793a90-b26f-403d-b987-069c0b5beea2,Sultan Pur Majra,3P Fulfillment,2024-04-01
+24ed1e97-54d3-4f03-a3d1-9491358dc61b,Berhampur,Meesho F,2025-03-09
+852252be-8099-41e0-9469-de71fb54c21c,Nagaon,Meesho F,2023-08-12
+7b47f559-a867-4da8-b4a5-079ce893f0ca,Jalgaon,Self,2025-06-28
+4b40f7aa-fd73-47fc-8d2b-4e7951f32222,Panihati,Meesho F,2024-04-24
+e27e0a00-2b82-4012-8d11-d15ddbaab95b,Agra,Self,2024-03-20
+322c9b24-eefa-488a-84d6-946fdcfbfce5,Bardhaman,Meesho F,2024-04-25
+63e33410-342c-43c1-a185-385a9c2d5368,Shahjahanpur,Self,2024-09-28
+db2a54fb-58c0-4839-8e55-deb1dfccfde1,Bikaner,Meesho F,2024-01-26
+887d0e06-ac44-4b53-bcf5-a293b855b0b9,Satara,Self,2024-05-26
+e1798236-d91a-4e37-97cc-ea6a6165c5e7,Kottayam,3P Fulfillment,2025-03-04
+f466aad1-9d67-491e-9478-600c73bbfc7f,Rohtak,Self,2025-01-01
+a2db00fa-0c99-49c1-a260-a4c0224230f6,Amaravati,Meesho F,2023-12-30
+bb2a0d36-d44a-48c9-a1cf-da68b8d5ab92,Dehri,3P Fulfillment,2024-11-27
+d7fb96a3-94ff-43a6-b6c6-f53761e2c381,Bareilly,3P Fulfillment,2024-10-13
+985827f7-d1e8-49e8-a9d9-416052dcfca4,Allahabad,3P Fulfillment,2023-11-19
+7fb2c3a5-3107-4e4b-a1f6-c496ccbc4f09,Belgaum,3P Fulfillment,2024-08-26
+e01b72da-5838-44ae-ab86-32e2ff30e9cf,Proddatur,Self,2024-12-04
+446cdd6b-a67c-46f0-9cbc-28db7a6ef766,Saharanpur,Meesho F,2025-06-27
+3ef6b696-147b-46ca-b404-3e7f3aa629bc,Unnao,Meesho F,2024-02-03
+89224cb6-bca2-4b66-8434-229fa37b8602,Ambattur,Meesho F,2025-03-11
+08282dab-2f80-4b99-9fce-b43e947e0dcc,Kanpur,Self,2025-02-22
+caee6447-8dac-44f1-9bf5-61429bc5e300,Malda,Meesho F,2025-01-05
+b43cb026-fd37-4a1d-9db7-3c0593d779bc,Bellary,3P Fulfillment,2024-11-17
+79c1c724-8b4f-4b9a-834e-8f729e4ce64a,Dibrugarh,Self,2025-03-03
+312db577-012d-4d57-a673-0fbc781e18e0,Bijapur,Meesho F,2024-08-06
+447ea0f5-3094-4415-b981-b369bc866451,Hubli–Dharwad,Meesho F,2024-01-15
+1759b418-3c98-4553-b23a-5231faf7fe84,Durg,3P Fulfillment,2024-02-07
+8426be7c-0204-477d-8d75-fc79eb47f194,Khora ,Meesho F,2023-09-07
+fc2b8c3d-5e17-4b45-a60c-a8c86f51945c,Giridih,3P Fulfillment,2025-03-08
+163a8196-123d-4cd4-a4b6-e0f19c0e16ec,Srikakulam,Self,2023-11-19
+772d39c8-a0ec-4a3d-be81-b119b196795d,Aligarh,3P Fulfillment,2023-09-06
+31de31e9-67c1-463b-a7cf-d11fb69f3f9e,Raiganj,Self,2024-08-24
+9c2c2195-f35f-49b1-8c18-4cad67e92e52,Chittoor,Self,2024-07-01
+ff706f8d-a0c9-41c7-afcd-1f1b0fb7d7c7,Kanpur,Self,2025-07-09
+9a288f4b-0b1c-4900-a0f6-3df2c86a92f6,Karnal,Self,2025-04-08
+2456c9b1-0c3c-4d71-963d-287773bcce6c,Tadepalligudem,Self,2023-08-31
+cfa1253a-5c9c-4b88-9ff5-80188bcb915d,Vijayawada,3P Fulfillment,2023-08-15
+57742903-0c73-4fd6-acbf-a53e3527c21b,Imphal,Self,2023-12-02
+aab1b855-33f6-46d5-9714-7c57cc7c4d0e,Mumbai,Meesho F,2024-10-07
+6a3da276-7aa3-47c9-9140-71b7d52dae36,Visakhapatnam,3P Fulfillment,2024-09-25
+eae6058e-a285-4f37-ad49-81728302f6ed,Bokaro,Self,2023-10-20
+601fdf77-7efa-414b-b31c-a70d1278c948,Meerut,Self,2025-04-14
+59febb31-1dbc-4f87-83b9-f92de3be9bb2,Karimnagar,Self,2024-12-11
+dd138f5a-7bb8-4ddd-9b3e-8bf896731f70,Bahraich,Self,2023-08-16
+5ff74f60-85ef-40d1-b853-8a56bee46948,Alappuzha,Meesho F,2024-06-24
+257f6bd5-f502-4df1-8d23-93cf3fc80210,Kalyan-Dombivli,3P Fulfillment,2025-07-09
+31dbb169-935f-4b14-97b0-9e96fedb5e5c,Bulandshahr,Meesho F,2025-03-16
+ea824ce6-5a95-4ed3-83da-194206df0bc2,Bhopal,Self,2024-12-24
+286e9151-6d5a-4400-8e0a-778ad2718040,Chittoor,Self,2025-05-29
+4f2483a4-e111-4594-b880-e03c37d608a0,Tirupati,Self,2023-07-30
+94170158-3d15-4537-9b47-51b94dc14f09,Kadapa,Meesho F,2024-06-16
+12cc3653-3dae-4903-9d23-8ab4ad3df15a,Karaikudi,Meesho F,2024-06-27
+c6ffe252-4dd6-43cc-ada3-a17acc3a0da5,Dehradun,Self,2025-04-25
+45db8d0e-3bb8-4cab-bae8-f346a22811b9,Suryapet,Self,2024-02-02
+68318a1c-1a23-49a3-8f06-a69262139205,Dehradun,3P Fulfillment,2024-02-14
+393ab0bf-358e-43f3-8b59-b4afc480a0a5,Gandhinagar,3P Fulfillment,2024-12-28
+d0513ec0-0af4-44aa-84cb-34c77831ee1e,Jalgaon,Meesho F,2024-11-13
+41c2d5e6-fc49-48bf-9df3-ba687a0ec631,Bidhannagar,3P Fulfillment,2023-08-21
+f470de6f-7aaf-4093-bb7f-e27da13a7329,Gudivada,3P Fulfillment,2024-11-19
+d98ef9f6-4e46-4946-82b1-b85e415a8b79,Raebareli,3P Fulfillment,2024-01-31
+327fedea-4762-4294-a718-ffefae4f06df,Vellore,3P Fulfillment,2024-09-11
+2160f327-62dd-45dd-aa76-3b4facc2d965,Kochi,Self,2024-06-11
+72dad14b-1c8a-4efb-95ea-f6d48b202c7a,Avadi,Meesho F,2025-02-25
+80a7bce8-5ff2-47d0-8573-ce84c4d17340,Malegaon,Self,2024-02-26
+990e24de-4cb1-4896-b6e0-07f283547329,Belgaum,Meesho F,2025-04-16
+eba04da5-07d5-43c4-8eca-f6c85dbc4b0c,Gandhidham,3P Fulfillment,2023-09-24
+e3788422-8403-4ccc-a7a4-b322e4162bd1,Pune,Self,2023-12-14
+32bee2ee-9430-4560-8c53-d16507ab23bb,Bhopal,Self,2024-02-07
+69352532-9aad-41df-8b35-f5872d16dd20,Dhule,Meesho F,2024-08-07
+87c7c608-499a-492e-9122-f2991af9fae4,Raiganj,Meesho F,2025-03-06
+3a18699d-3f4a-4206-a8e6-e33efe348b52,Erode,3P Fulfillment,2025-01-04
+927f7072-5f59-4c32-bfaf-f44da1cdbf87,Agartala,Self,2025-02-17
+7f7f9458-45c9-4451-9237-0acc812d4c92,Anantapuram,Self,2024-11-27
+5fdee223-a497-48c2-9379-8d258d3c1f2f,Chapra,Self,2024-10-06
+30c9d7d5-b640-4bea-92f4-22bdaa6ed668,Agra,3P Fulfillment,2025-06-03
+2d66d705-4f06-4d77-86ee-380cb0ccba1e,Ulhasnagar,Meesho F,2023-10-15
+40764a69-5461-4071-b117-62be3335836d,Baranagar,Meesho F,2025-03-24
+2b86e648-f631-4ca9-bb18-ae3cb5e8a2ce,Korba,Self,2023-10-11
+df02d344-b9c4-4932-86ca-d8790e7fc53e,Nanded,Self,2023-12-29
+bc4cee7f-33c4-408e-8c29-494e653f3f7f,Khammam,Self,2025-07-12
+9fc6a12d-e63c-4b89-8b1b-68e993087af9,Durg,Meesho F,2024-09-19
+8ead525c-4f24-4607-8c5a-ea13c4df1b14,Panchkula,Self,2025-04-29
+909d8a9d-1ac8-4c4b-87e2-e47a134eeb0b,Silchar,Meesho F,2023-12-30
+c6d3eff9-ffe4-437a-8ccd-8b59b13238ac,Bahraich,Meesho F,2024-02-11
+b298daa0-f537-43a0-91cd-3530e93db74b,Pali,3P Fulfillment,2024-12-01
+52d08f49-2131-4ae5-83c4-ba3dc0bebf87,Berhampur,3P Fulfillment,2024-05-17
+dd2ae168-3839-43bf-92af-38f1467585cd,Satara,Self,2024-01-21
+97612960-09e4-4cc1-8a9d-54bdc7cf922b,Vijayawada,3P Fulfillment,2025-01-31
+ad5ece66-3c91-4537-9e4c-6f6dca1caf51,Chittoor,Self,2023-11-05
+9af79453-8805-450a-9bc0-823638151b77,Ozhukarai,Meesho F,2023-09-29
+f27e4a89-c334-414e-8c97-50d0e9ae2995,Pimpri-Chinchwad,Meesho F,2025-03-22
+17cb493a-c3c2-4393-b62b-bbef0cd2fe21,Aligarh,3P Fulfillment,2024-02-20
+af7d4329-01a1-4c0f-b24e-a1da4d26b58d,Durgapur,Meesho F,2025-05-21
+52f35683-ef6f-4e9f-9eee-29f77b072bca,Bokaro,Meesho F,2023-12-30
+2955e741-1823-43c8-8ba1-b86fc1b866a4,Vijayanagaram,3P Fulfillment,2025-07-10
+d3ed7e40-0dee-4c02-9ecf-922f73ce9351,North Dumdum,3P Fulfillment,2024-04-01
+a4182842-0308-49f5-bab9-7165f2a5f139,Ambattur,3P Fulfillment,2023-08-04
+0e2b409b-fd11-4dd9-b7da-dc0646cc24bf,Silchar,Self,2023-08-09
+64ce6ba7-559e-45c6-a5c9-8b121917633e,Chandigarh,3P Fulfillment,2025-06-03
+3faa2434-d9f9-4332-84de-c103b2d93d53,Bally,Self,2023-12-08
+2a9e2135-f5d2-4f3b-a6ac-9d4d179178d3,Jalandhar,Meesho F,2023-08-26
+95219920-4a72-4c5a-bebd-0de7e2500726,Mangalore,Self,2025-05-05
+93d8811a-0b25-40d8-b43f-035769354e27,Mango,Self,2024-03-08
+67fddd82-34a3-4422-a537-1f40c4003c08,North Dumdum,Self,2024-09-21
+a9bc9106-ad3c-4c1e-bec5-dd246b4ba843,Nangloi Jat,Self,2023-08-24
+d2c72fd1-0a59-4cd4-b9a5-f57fd348385a,Morbi,Meesho F,2025-05-21
+59cddde4-8657-423c-8a8f-6c423601ab7e,Barasat,Self,2024-01-12
+5b697ad9-8896-44d2-bdf4-998cc6971b76,Madanapalle,Self,2025-04-15
+2d400a97-6d72-4168-a54f-f1b5d32c91dd,Mathura,Meesho F,2025-03-12
+e0b55ee0-d183-45d5-8c68-42bb52abd2a8,Suryapet,3P Fulfillment,2023-11-30
+ccdf1729-1817-4c2c-93c0-227ab7ec7fe1,Tadepalligudem,Meesho F,2024-07-07
+ff3541d4-e38d-4f65-bb03-9814136de9f0,Jaunpur,Meesho F,2024-05-11
+720cc0db-2686-457f-afe1-c9cfa8cda10c,Ranchi,Self,2025-06-01
+1a9db4fa-7db5-4b47-8a09-fd9b5b1748e3,Shivpuri,3P Fulfillment,2023-12-23
+33bc9d60-cd3a-4a03-9c37-a04f056b98eb,Lucknow,Meesho F,2025-07-07
+b4ebaff8-0252-4e85-a5ae-a61eba8d04f9,Bangalore,Meesho F,2024-11-08
+151d1868-0705-4009-af6a-78639992e322,Chittoor,Self,2025-04-16
+8994f82d-45e2-4c04-90f9-7f13fa1b7aa3,Berhampore,Self,2024-07-20
+36145ca4-7c98-41b7-ae31-d00ca4ffd437,Shivpuri,Meesho F,2023-10-26
+f2f3d5f3-3130-451e-82e2-ddc924dd08f9,Kolkata,3P Fulfillment,2024-09-17
+090a56b9-107c-4ee1-81e5-e4caa8e4de58,Panchkula,Self,2025-01-31
+54c45cdd-c636-4f8a-bce3-6ef16b13adcb,Ratlam,Meesho F,2023-08-27
+753f6bae-734e-47df-9d17-636a21f3af83,Hazaribagh,3P Fulfillment,2025-02-18
+1931553d-28e8-48e9-87ea-f88c8cda4813,Haldia,3P Fulfillment,2024-10-19
+9d91fb4b-3bf2-44db-9f52-0d04c7943ecf,Chennai,Meesho F,2023-08-25
+bb242e92-88eb-4dff-bce8-30ccce787d57,Gandhidham,Self,2024-05-12
+228da4e5-677b-459f-9a63-6f9c59038868,Nanded,Meesho F,2023-11-01
+40e393b5-20b5-4aaa-9d51-837f892aafa8,Vijayanagaram,Self,2023-10-08
+09a066a7-0996-47df-84e2-6569b68ce306,Jaipur,3P Fulfillment,2023-10-05
+3cd4d7b3-d545-4532-b49c-e216b575d045,Sangli-Miraj & Kupwad,Meesho F,2024-04-21
+ea8eb061-de91-4f17-baf2-769fcb9679e2,Ahmednagar,Meesho F,2024-02-07
+266e1864-040f-4fe1-a06c-ced7e49a725e,Ludhiana,3P Fulfillment,2024-07-20
