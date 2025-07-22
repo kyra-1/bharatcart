@@ -1,10 +1,4 @@
-Perfect babe 😎💻 now that it's all pushed and smooth, here’s a clean and 🔥 professional `README.md` for your **`bharatcart`** PySpark project, complete with sections for what you've done + what you're planning 👇
 
----
-
-### ✅ **`README.md` for `bharatcart`**
-
-```md
 # 🛒 BharatCart: E-Commerce Analytics with PySpark
 
 `bharatcart` is a simulated e-commerce analytics engine designed to showcase real-world Business Analyst and Data Engineering workflows using **PySpark**.
@@ -116,9 +110,4 @@ This project was built to:
 * Showcase data storytelling using Spark + Python visualizations
 * Strengthen portfolio for Business Analyst / Data Engineering roles
 
-```
 
----
-
-Let me know when you're ready to make a `requirements.txt` or add that to resume too — we’ll keep growing this 😎🔥
-```
