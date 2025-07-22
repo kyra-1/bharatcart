@@ -1,5 +1,6 @@
 # bharatcart
 ---
+```
 bharatcart-analytics/
 ├── data/                # synthetic or downloaded datasets
 ├── generator/           # Python scripts to simulate e-com data
@@ -12,3 +13,4 @@ bharatcart-analytics/
 ├── README.md            # project overview
 ├── requirements.txt     # for Python packages
 └── .gitignore
+```
