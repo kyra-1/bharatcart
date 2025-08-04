@@ -14,7 +14,7 @@ It provides dashboards and insights for:
 
 The project is organized into data generation, PySpark processing jobs, and dashboard visualization scripts.
 
-'''
+```
 kyra-1-bharatcart/
 ├── README.md
 ├── dashboards/               # Scripts to generate visual dashboards
@@ -37,7 +37,7 @@ kyra-1-bharatcart/
 └── utils/                    # Helper modules
 └── spark_session.py
 
-'''
+```
 ---
 
 ## 📊 Dashboards & Metrics
@@ -121,3 +121,4 @@ This project was built to:
 * Simulate real-world e-commerce pipelines using big data tools
 * Showcase data storytelling using Spark + Python visualizations
 * Strengthen portfolio for Business Analyst / Data Engineering roles
+
